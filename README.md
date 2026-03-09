@@ -1,5 +1,4 @@
 # web-hw
-# index.html
 <!DCOTYPE html>
 <html>
 <head>
